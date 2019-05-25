@@ -1,0 +1,1 @@
+python funlife_register_coupon.py
